@@ -5,7 +5,7 @@ DevOpsOkinawa-2
 
 ## 日時
 
-2014年3月8日 (土) 時間未定 (1200 - 1800 で教室はアサインされています)
+2014年3月8日 (土) 13:00 - 17:00
 
 ## 場所
 
@@ -14,6 +14,10 @@ DevOpsOkinawa-2
 ## 内容
 
 もくもく勉強会
+
+## 参加申し込みフォーム
+
+[DevOps Okinawa #2](http://devops-okinawa.doorkeeper.jp/events/8621)
 
 以下、ご参考まで。
 
