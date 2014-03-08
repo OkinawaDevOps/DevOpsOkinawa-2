@@ -22,3 +22,9 @@ DevOpsOkinawa-2
 以下、ご参考まで。
 
 - [もくもく勉強会をやろう！](http://www.1x1.jp/blog/2013/12/lets-try-moku-moku-study-event.html)
+
+## 次回
+
+来月には開催したいとの事でしたので、実施に関する情報を控えておきます。
+
+- [実施に関する控え](next.md)
